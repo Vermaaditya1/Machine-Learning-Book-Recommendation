@@ -10,8 +10,8 @@ Execution: Execute each cell in the notebook sequentially to preprocess the data
 ### Libraries Used
 The notebook utilizes the following Python libraries:
 
-> numpy: Numerical operations.
-> pandas: Data manipulation and analysis.
-> seaborn: Statistical data visualization.
-> matplotlib: Plotting and visualization.
-> sklearn: Machine learning and similarity computations.
+1) numpy: Numerical operations.
+2) pandas: Data manipulation and analysis.
+3) seaborn: Statistical data visualization.
+4) matplotlib: Plotting and visualization.
+5) sklearn: Machine learning and similarity computations.
